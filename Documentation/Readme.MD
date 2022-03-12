@@ -78,3 +78,15 @@ Cette section donne quelques informations générales sur la page, comme son tit
 ```html
 <!-- Ceci est un commentaire -->
 ```
+
+-------------------------------------------------------------------------------------------------------------------------
+#### Les paragraphes
+```html
+<p>Bonjour et bienvenue sur mon site !</p>
+```
+#### Sauter une ligne
+```html
+<br />
+```
+
+
