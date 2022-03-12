@@ -151,6 +151,8 @@ Cette section donne quelques informations générales sur la page, comme son tit
 
 #### Un lien vers une ancre
 ```html
+<h2 id="mon_ancre">Titre</h2>
+<a href="#mon_ancre">Aller vers l'ancre</a>
 ```
 
 -------------------------------------------------------------------------------------------------------------------------
