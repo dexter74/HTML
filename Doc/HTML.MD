@@ -212,8 +212,6 @@ Cette section donne quelques informations générales sur la page, comme son tit
 #### Balise de type Block (div, p, h1 ..)
 ```html
 <div> </div>  : c'est une balise qui entoure un bloc de texte.
-<p>Bonjour et <span class="salutations">bienvenue</span> sur mon site !</p>
-
 ```
 
 -------------------------------------------------------------------------------------------------------------------------
