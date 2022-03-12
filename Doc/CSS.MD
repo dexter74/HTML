@@ -35,7 +35,7 @@ p, em
 
 ------------------------------------------------------------------------------------------
 
-## Appliquer un style : class et id
+## Appliquer un style : class
 
 ```html
 <p class="introduction">Bonjour et bienvenue sur mon site !</p>
@@ -46,6 +46,22 @@ p, em
 
 {
     color: blue;
+}
+```
+
+
+------------------------------------------------------------------------------------------
+
+## Appliquer un style : ID
+
+```html
+<p id="introduction">Bonjour et bienvenue sur mon site !</p>
+```
+
+```css
+#introduction
+{
+    background: black;
 }
 ```
 
