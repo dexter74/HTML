@@ -1,3 +1,5 @@
+[TUTORIAL](https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3/1604646-creez-des-liens)
+
 -------------------------------------------------------------------------------------------------------------------------
 ## Les Balises et Attributs
 
@@ -122,10 +124,7 @@ Cette section donne quelques informations générales sur la page, comme son tit
 
 -------------------------------------------------------------------------------------------------------------------------
 ## Les Listes
-```html
-```
 
--------------------------------------------------------------------------------------------------------------------------
 #### Liste non ordonnée
 ```html
 <ul>
@@ -135,7 +134,6 @@ Cette section donne quelques informations générales sur la page, comme son tit
 </ul>
 ```
 
--------------------------------------------------------------------------------------------------------------------------
 #### Liste ordonnée
 ```html
 <ol>
@@ -146,12 +144,12 @@ Cette section donne quelques informations générales sur la page, comme son tit
 ```
 
 -------------------------------------------------------------------------------------------------------------------------
-#### 
+#### Un lien vers un autre site
 ```html
+<a href="https://openclassrooms.com">OpenClassrooms</a>
 ```
 
--------------------------------------------------------------------------------------------------------------------------
-#### 
+#### Un lien vers une ancre
 ```html
 ```
 
