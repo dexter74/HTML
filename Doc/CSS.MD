@@ -1,3 +1,9 @@
+#### Des commentaires dans du CSS
+
+```css
+/* Mon Commentaire */ 
+```
+
 ------------------------------------------------------------------------------------------
 
 ## Appliquer un style : sélectionner une balise
@@ -29,8 +35,17 @@ p, em
 
 ------------------------------------------------------------------------------------------
 
-#### Des commentaires dans du CSS
+## Appliquer un style : class et id
+
+```html
+<p class="introduction">Bonjour et bienvenue sur mon site !</p>
+```
 
 ```css
-/* Mon Commentaire */ 
+.introduction
+
+{
+    color: blue;
+}
 ```
+
