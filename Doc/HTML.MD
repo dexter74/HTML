@@ -201,13 +201,19 @@ Cette section donne quelques informations générales sur la page, comme son tit
 ```
 
 -------------------------------------------------------------------------------------------------------------------------
-#### 
+#### Balise de type Inline (span, strong, em)
 ```html
+<span> </span> : C'est une balise que l'on place au sein d'un paragraphe de texte.
+
+<p>Bonjour et <span class="salutations">bienvenue</span> sur mon site !</p>
 ```
 
 -------------------------------------------------------------------------------------------------------------------------
-#### 
+#### Balise de type Block (div, p, h1 ..)
 ```html
+<div> </div>  : c'est une balise qui entoure un bloc de texte.
+<p>Bonjour et <span class="salutations">bienvenue</span> sur mon site !</p>
+
 ```
 
 -------------------------------------------------------------------------------------------------------------------------
