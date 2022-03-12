@@ -31,6 +31,7 @@
         <!-- En-tête de la page -->
         <meta charset="utf-8" />
         <title>Titre</title>
+        <link rel="stylesheet" href="style.css" />
     </head>
     <body>
         <!-- Corps de la page -->
@@ -60,6 +61,7 @@ Cette section donne quelques informations générales sur la page, comme son tit
 ```html
 <head>
     <title>TITRE DE MON SITE</title>
+    <link rel="stylesheet" href="style.css" />
 </head>
 ```
 
