@@ -24,12 +24,13 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <!-- En-tête de la page -->
         <meta charset="utf-8" />
         <title>Titre</title>
     </head>
 
     <body>
-    
+        <!-- Corps de la page -->
     </body>
 </html>
 ```
