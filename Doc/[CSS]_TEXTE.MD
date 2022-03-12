@@ -64,13 +64,22 @@ p
 #### Utiliser une police personnalisée 
 
 ```html
+<p>MON TEXTE</p>
 ```
 
 ```css
+/* Déclarer la POLICE */
 @font-face {
-    font-family: 'MaSuperPolice';
-    src: url('MaSuperPolice.eot');
+ font-family: "MAPOLICE";
+ src: url("Courage Road.otf") format('opentype');
+ src: url("Courage Road.ttf") format('truetype');
 }
+
+/* Utilisation de la police */
+p
+ {
+ font-family: MAPOLICE, "arial black";
+ }
 ```
 
 -------------------------------------------------------------------------------------------
