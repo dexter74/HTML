@@ -1,17 +1,22 @@
 ## Appliquer un style : sélectionner une balise
 
-#### HTML
+#### Le style dans le HTML
 
 ```html
-<p>TEST</p>
-
+<p style="color: blue;">Bonjour et bienvenue sur mon site !</p>
 ```
 
-### CSS 
+------------------------------------------------------------------------------------------
+
+#### Le style dans un CSS:
+```html
+<p>TEST</p>
+```
+
 ```css
 p
  {
- color: red;
+ color: blue;
  }
 ```
 
