@@ -58,7 +58,6 @@ Cette section donne quelques informations générales sur la page, comme son tit
 ```html
 <head>
     <title>TITRE DE MON SITE</title>
-    
 </head>
 ```
 
