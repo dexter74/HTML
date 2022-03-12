@@ -155,7 +155,10 @@ Cette section donne quelques informations générales sur la page, comme son tit
 
 #### Lien vers une ancre située dans une autre page
 ```html
-<a href="ancres.html#rollers">
+<a href="ancres.html#rollers"></a>
+<a href="ancres.html#rollers" title="TEST" target="_blank">ICI</a>
+
+
 ```
 
 -------------------------------------------------------------------------------------------------------------------------
