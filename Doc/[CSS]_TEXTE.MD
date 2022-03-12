@@ -83,22 +83,45 @@ p
 ```
 
 -------------------------------------------------------------------------------------------
-#### 
+#### Normal, Italique et Gras
 
 ```html
+<p>MON TEXTE</p>
 ```
 
 ```css
+p
+{
+    font-style: normal; /* normal, italic */
+    font-weight: bold;
+}
+
+
+
+
+
 ```
 
 -------------------------------------------------------------------------------------------
-#### 
+#### Soulignement et autres décorations
+
 
 ```html
+<p>MON TEXTE</p>
 ```
 
 ```css
+p
+{
+ text-decoration: blink;
+}
+
+/* blink        - Normal              */
+/* underline    - Surligné au dessous */
+/* line-through - Barré               */
+/* overline     - Surligné au dessus  */
 ```
+
 
 -------------------------------------------------------------------------------------------
 #### 
