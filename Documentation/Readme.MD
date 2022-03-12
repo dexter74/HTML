@@ -1,29 +1,27 @@
-**Paire**
-````html 
+## Les Balises et Attributs
+
+### Les balises
+
+#### Paires
+```html
 <titre>Ceci est un titre</titre>
-```` 
+```
 
-**Orpheline**
-````html
+#### Orphelines
+```html
 <image />
-````
+```
 
-**Attributs**
-````html
+### Les attributs
+```html
 <balise attribut="valeur">
-<image nom="photo.jpg" />
-````
+```
 
-````html
-<citation auteur="Neil Armstrong" date="21/07/1969"> 
- C'est un petit pas pour l'homme, mais un bond de géant pour l'humanité.
-</citation>
-````
+-------------------------------------------------------------------------------------------------------------------------
 
---------------------------------------------------------------------------------------------------------------------------------------------
+## La Structure de base d'une page HTML5
 
-### A. Structure
-````html
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -35,26 +33,6 @@
     
     </body>
 </html>
-````
+```
 
 
-**Doctype**
-````html
-````
-
-
-
-````html
-````
-
-````html
-````
-
-````html
-````
-
-````html
-````
-
-````html
-````
