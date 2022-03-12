@@ -180,23 +180,21 @@ Cette section donne quelques informations générales sur la page, comme son tit
 
 
 -------------------------------------------------------------------------------------------------------------------------
-#### 
+## Les Images
+
+#### Insertion d'une image
 ```html
+<img src="images/montagne.jpg" alt="Photo de montagne" />
 ```
 
--------------------------------------------------------------------------------------------------------------------------
-#### 
+#### Ajouter une infobulle
 ```html
+<img src="images/montagne.jpg" alt="Photo de montagne" title="C'est beau les Alpes quand même !" />
 ```
 
--------------------------------------------------------------------------------------------------------------------------
-#### 
+#### Miniature cliquable
 ```html
-```
-
--------------------------------------------------------------------------------------------------------------------------
-#### 
-```html
+<a href="img/montagne.jpg"><img src="img/montagne_mini.jpg" alt="Photo de montagne" title="Cliquez pour agrandir" /></a>
 ```
 
 -------------------------------------------------------------------------------------------------------------------------
