@@ -1,4 +1,6 @@
-## HTML
+## Appliquer un style : sélectionner une balise
+
+#### HTML
 
 ```html
 <p>TEST</p>
@@ -12,4 +14,5 @@ p
  color: red;
  }
 ```
+
 
