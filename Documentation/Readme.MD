@@ -156,19 +156,16 @@ Cette section donne quelques informations générales sur la page, comme son tit
 #### Lien vers une ancre située dans une autre page
 ```html
 <a href="ancres.html#rollers"></a>
+```
+
+#### Un lien qui ouvre une nouvelle fenêtre 
+```html
 <a href="ancres.html#rollers" title="TEST" target="_blank">ICI</a>
-
-
 ```
 
--------------------------------------------------------------------------------------------------------------------------
-#### 
+#### Un lien pour envoyer un e-mail
 ```html
-```
-
--------------------------------------------------------------------------------------------------------------------------
-#### 
-```html
+<p><a href="mailto:votrenom@bidule.com">Envoyez-moi un e-mail !</a></p>
 ```
 
 -------------------------------------------------------------------------------------------------------------------------
