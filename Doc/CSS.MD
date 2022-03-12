@@ -11,6 +11,7 @@
 #### Le style dans un CSS:
 ```html
 <p>TEST</p>
+<em>TEST 2</em>
 ```
 
 ```css
@@ -18,6 +19,12 @@ p
  {
  color: blue;
  }
+
+
+p, em
+{
+    color: blue;
+}
 ```
 
 
