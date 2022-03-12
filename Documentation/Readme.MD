@@ -30,7 +30,6 @@
         <meta charset="utf-8" />
         <title>Titre</title>
     </head>
-
     <body>
         <!-- Corps de la page -->
     </body>
@@ -48,8 +47,7 @@
 C'est la balise principale du code. Elle englobe tout le contenu de votre page. Comme vous pouvez le voir, la balise fermante </html>  se trouve tout à la fin du code !
 
 ```html
-<html>
-</html>
+<html> </html>
 ```
 
 -------------------------------------------------------------------------------------------------------------------------
@@ -60,13 +58,13 @@ Cette section donne quelques informations générales sur la page, comme son tit
 ```html
 <head>
     <title>TITRE DE MON SITE</title>
+    
 </head>
 ```
 
 #### Le Corps
 ```html
-<body>
-</body>
+<body> </body>
 ```
 
 -------------------------------------------------------------------------------------------------------------------------
@@ -155,9 +153,9 @@ Cette section donne quelques informations générales sur la page, comme son tit
 <a href="#mon_ancre">Aller vers l'ancre</a>
 ```
 
--------------------------------------------------------------------------------------------------------------------------
-#### 
+#### Lien vers une ancre située dans une autre page
 ```html
+<a href="ancres.html#rollers">
 ```
 
 -------------------------------------------------------------------------------------------------------------------------
