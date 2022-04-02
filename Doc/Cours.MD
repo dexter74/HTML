@@ -146,6 +146,20 @@ li: délimite un élément de la liste.
 <a href="#mon_ancre">Aller vers l'ancre</a>
 ````
 
+**Divers**
+````html
+<p>Bonjour. Souhaitez-vous visiter <a href="https://openclassrooms.com" title="Vous ne le regretterez pas !">OpenClassrooms</a> ?</p>
+````
+````html
+<p>Bonjour. Souhaitez-vous visiter <a href="https://openclassrooms.com" title="Vous ne le regretterez pas !" target="_blank">OpenClassrooms</a> ?</p>
+````
+````html
+<p><a href="mailto:votrenom@bidule.com">Envoyez-moi un e-mail !</a></p>
+````
+````html
+<p><a href="monfichier.zip">Télécharger le fichier</a></p>
+````
+
 
 
 
