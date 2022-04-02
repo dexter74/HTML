@@ -105,12 +105,11 @@ C'est un petit pas pour l'homme, mais un bond de géant pour l'humanité.
 <mark> </mark>
 ````
 #### Les Listes
-
-``
+````
 ul: délimite toute la liste
-
 li: délimite un élément de la liste.
-``
+````
+
 **Création d'une liste**
 ````html
 <ul> </ul>  
@@ -132,71 +131,47 @@ li: délimite un élément de la liste.
 </ol>
 ````
 
+------------------------------------------------------------------------------------------------------------------------------------------
+### [Créez des liens](https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3/1604646-creez-des-liens)
+#### Un lien vers un autre site
+````html
+<a href="#">Menu</a>
+````
+#### Un lien vers une ancre
+**Création d'une Ancre**
+````html
+<h2 id="mon_ancre">Titre</h2>
+````
+**Liens pointant vers l'ancre**
+````html
+<a href="#mon_ancre">Aller vers l'ancre</a>
+````
+
+
+
+
+#### 
+#### 
+#### 
+#### 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-####
-
-
-
-**XXXX**
-````html
-````
-
-**XXXX**
-````html
-````
-
-**XXXX**
-````html
-````
-
-**XXXX**
-````html
-````
-
-**XXXX**
-````html
-````
-
-**XXXX**
-````html
-````
-
-**XXXX**
-````html
-````
-
-**XXXX**
-````html
-````
-
-**XXXX**
-````html
-````
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### []()
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
