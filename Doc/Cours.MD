@@ -105,8 +105,10 @@ C'est un petit pas pour l'homme, mais un bond de géant pour l'humanité.
 <mark> </mark>
 ````
 #### Les Listes
-`` 
+
+``
 ul: délimite toute la liste
+
 li: délimite un élément de la liste.
 ``
 **Création d'une liste**
