@@ -72,8 +72,7 @@ C'est un petit pas pour l'homme, mais un bond de géant pour l'humanité.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 ### [Organisez votre texte](https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3/1604534-organisez-votre-texte)
-````html
-````
+
 #### Les paragraphes
 ````html
 <p>Bonjour et bienvenue sur mon site !</p>
