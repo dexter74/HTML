@@ -114,10 +114,9 @@ color: #FFFFFF;
 color: rgb(240,96,204);
 ````
 
-
 #### Couleur de fond
-**XXX**
 ````css
+background-color: black;
 ````
 
 #### Images de fond
