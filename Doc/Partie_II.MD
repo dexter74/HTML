@@ -105,18 +105,45 @@ text-align: justify;  /* Aligner le texte à Justifier */
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-### []()
+### [Ajoutez de la couleur et un fond](https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3/1605551-ajoutez-de-la-couleur-et-un-fond)
 
-#### 
+#### Couleur du texte ([ColorPicker](http://www.colorpicker.com/))
+````css
+color: maroon;
+color: #FFFFFF;
+color: rgb(240,96,204);
+````
+
+
+#### Couleur de fond
+**XXX**
+````css
+````
+
+#### Images de fond
+**XXX**
+````css
+````
+
+
+#### La transparence
+
+**XXX**
+````css
+````
 
 **XXX**
 ````html
 ````
 
 
-**XXX**
-````css
-````
+
+
+
+
+
+
+
 
 
 
