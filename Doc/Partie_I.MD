@@ -28,6 +28,7 @@ C'est un petit pas pour l'homme, mais un bond de géant pour l'humanité.
     <head>
         <meta charset="utf-8" />
         <title>Titre</title>
+      <link rel="stylesheet" href="style.css" />
     </head>
     <body>
     </body>
